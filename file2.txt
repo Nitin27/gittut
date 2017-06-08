@@ -1,2 +1,1 @@
-Some test text 
-hello nitin
+/bin/bash: wq: command not found
